@@ -35,7 +35,7 @@ p {
 /* Hero */
 .hero {
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-		url('../img/DSC_53.jpg')
+		url('img/DSC_53.jpg')
 			center/cover no-repeat;
 	height: 80vh;
 	display: flex;
@@ -142,4 +142,5 @@ footer {
 		height: 70vh;
 	}
 }
+
 
